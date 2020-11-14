@@ -1,0 +1,49 @@
+body {
+    background-image: url(bungadaun.png);
+  }
+.container {
+    position: relative;
+}
+
+.child {
+  margin-top: -100px;
+  margin-left: -200px;
+  left: 50%;
+  top: 50%;
+  width: 400px;
+  height: 250px;
+}
+
+.center{
+    display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+.font2 {
+  font-family:Antonio;
+  font-size: 25px;
+  height: 2px;
+  margin: 0rem auto 0 auto;
+  width: 170px;
+  color: whitesmoke;
+  margin-top: 300px;
+  }   
+
+.control-group {
+    font-size:45px;
+    width: 300px;
+    margin-right: 70px;
+    margin-left: 70px;
+    }
+
+.font1 {
+    font-family:Lucida Calligraphy;
+    font-size:50px;
+    height: 5px;
+    margin: 0rem auto 0 auto;
+    width: 400px;
+    color:whitesmoke;
+    margin-top: 175px;
+    text-align: center;
+    }
